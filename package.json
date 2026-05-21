@@ -1,0 +1,23 @@
+{
+  "name": "agent-skillforge",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A polished collection of 50 reusable AI agent skills for product, engineering, QA, DevOps, security, docs, and open-source workflows.",
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-skills.mjs",
+    "catalog": "node scripts/generate-catalog.mjs",
+    "check": "npm run validate && npm run catalog"
+  },
+  "keywords": [
+    "ai-agents",
+    "agent-skills",
+    "skill-md",
+    "claude-skills",
+    "developer-tools",
+    "open-source",
+    "devops",
+    "quality-gate"
+  ],
+  "license": "MIT"
+}

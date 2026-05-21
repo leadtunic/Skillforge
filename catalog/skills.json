@@ -1,0 +1,352 @@
+[
+  {
+    "name": "prompt-ops-optimizer",
+    "description": "Improve prompts, system instructions, agent workflows, and evaluation criteria.",
+    "category": "ai",
+    "version": "1.0.0",
+    "path": "skills/ai/prompt-ops-optimizer/SKILL.md"
+  },
+  {
+    "name": "design-system-curator",
+    "description": "Review and improve UI consistency through tokens, components, states, accessibility, and usage rules.",
+    "category": "design",
+    "version": "1.0.0",
+    "path": "skills/design/design-system-curator/SKILL.md"
+  },
+  {
+    "name": "ux-friction-analyst",
+    "description": "Find UX friction in flows, forms, dashboards, onboarding, and admin interfaces.",
+    "category": "design",
+    "version": "1.0.0",
+    "path": "skills/design/ux-friction-analyst/SKILL.md"
+  },
+  {
+    "name": "ci-cd-pipeline-builder",
+    "description": "Create or review CI/CD pipelines for build, lint, typecheck, tests, security checks, and deployment.",
+    "category": "devops",
+    "version": "1.0.0",
+    "path": "skills/devops/ci-cd-pipeline-builder/SKILL.md"
+  },
+  {
+    "name": "docker-compose-auditor",
+    "description": "Review Docker Compose files for correctness, security, networking, volumes, health checks, and deployability.",
+    "category": "devops",
+    "version": "1.0.0",
+    "path": "skills/devops/docker-compose-auditor/SKILL.md"
+  },
+  {
+    "name": "dokploy-launchpad",
+    "description": "Prepare applications for deployment on Dokploy with Docker, networks, domains, Traefik, and environment variables.",
+    "category": "devops",
+    "version": "1.0.0",
+    "path": "skills/devops/dokploy-launchpad/SKILL.md"
+  },
+  {
+    "name": "environment-contract-validator",
+    "description": "Validate environment variables, configuration contracts, examples, and deployment consistency.",
+    "category": "devops",
+    "version": "1.0.0",
+    "path": "skills/devops/environment-contract-validator/SKILL.md"
+  },
+  {
+    "name": "traefik-route-detective",
+    "description": "Diagnose Traefik routing, TLS, middleware, service discovery, and upstream connectivity issues.",
+    "category": "devops",
+    "version": "1.0.0",
+    "path": "skills/devops/traefik-route-detective/SKILL.md"
+  },
+  {
+    "name": "adr-decision-recorder",
+    "description": "Write Architecture Decision Records that capture context, options, decision, consequences, and follow-up.",
+    "category": "docs",
+    "version": "1.0.0",
+    "path": "skills/docs/adr-decision-recorder/SKILL.md"
+  },
+  {
+    "name": "changelog-curator",
+    "description": "Generate clean changelogs from commits, pull requests, tickets, or release notes.",
+    "category": "docs",
+    "version": "1.0.0",
+    "path": "skills/docs/changelog-curator/SKILL.md"
+  },
+  {
+    "name": "documentation-architect",
+    "description": "Design documentation structure for products, APIs, developer onboarding, and operations.",
+    "category": "docs",
+    "version": "1.0.0",
+    "path": "skills/docs/documentation-architect/SKILL.md"
+  },
+  {
+    "name": "readme-polisher",
+    "description": "Create or improve a GitHub README with clear positioning, setup, usage, architecture, and contribution guidance.",
+    "category": "docs",
+    "version": "1.0.0",
+    "path": "skills/docs/readme-polisher/SKILL.md"
+  },
+  {
+    "name": "release-brief-writer",
+    "description": "Create release notes that communicate value, changes, risks, and upgrade instructions.",
+    "category": "docs",
+    "version": "1.0.0",
+    "path": "skills/docs/release-brief-writer/SKILL.md"
+  },
+  {
+    "name": "api-contract-steward",
+    "description": "Review REST, GraphQL, webhook, or internal API contracts for consistency, safety, and usability.",
+    "category": "engineering",
+    "version": "1.0.0",
+    "path": "skills/engineering/api-contract-steward/SKILL.md"
+  },
+  {
+    "name": "architecture-lens",
+    "description": "Review system architecture for boundaries, coupling, scalability, maintainability, and operational risk.",
+    "category": "engineering",
+    "version": "1.0.0",
+    "path": "skills/engineering/architecture-lens/SKILL.md"
+  },
+  {
+    "name": "data-model-sentinel",
+    "description": "Review database schema, indexes, constraints, naming, migrations, and query patterns.",
+    "category": "engineering",
+    "version": "1.0.0",
+    "path": "skills/engineering/data-model-sentinel/SKILL.md"
+  },
+  {
+    "name": "domain-model-auditor",
+    "description": "Validate entities, relationships, invariants, and business rules in a domain model.",
+    "category": "engineering",
+    "version": "1.0.0",
+    "path": "skills/engineering/domain-model-auditor/SKILL.md"
+  },
+  {
+    "name": "legacy-decoder",
+    "description": "Analyze legacy code and explain behavior, dependencies, hidden rules, and modernization opportunities.",
+    "category": "engineering",
+    "version": "1.0.0",
+    "path": "skills/engineering/legacy-decoder/SKILL.md"
+  },
+  {
+    "name": "migration-risk-planner",
+    "description": "Plan safe database, infrastructure, or application migrations with rollback and validation steps.",
+    "category": "engineering",
+    "version": "1.0.0",
+    "path": "skills/engineering/migration-risk-planner/SKILL.md"
+  },
+  {
+    "name": "repository-cartographer",
+    "description": "Map a codebase structure, identify key modules, and explain how the project fits together.",
+    "category": "engineering",
+    "version": "1.0.0",
+    "path": "skills/engineering/repository-cartographer/SKILL.md"
+  },
+  {
+    "name": "safe-refactor-orchestrator",
+    "description": "Plan and review refactors while preserving external behavior and reducing regression risk.",
+    "category": "engineering",
+    "version": "1.0.0",
+    "path": "skills/engineering/safe-refactor-orchestrator/SKILL.md"
+  },
+  {
+    "name": "technical-debt-radar",
+    "description": "Detect technical debt and prioritize fixes by business risk, maintainability, and delivery impact.",
+    "category": "engineering",
+    "version": "1.0.0",
+    "path": "skills/engineering/technical-debt-radar/SKILL.md"
+  },
+  {
+    "name": "open-source-maintainer-kit",
+    "description": "Prepare repositories for open-source collaboration with contribution rules, issue templates, governance, and release hygiene.",
+    "category": "open-source",
+    "version": "1.0.0",
+    "path": "skills/open-source/open-source-maintainer-kit/SKILL.md"
+  },
+  {
+    "name": "backup-restore-guardian",
+    "description": "Review backup, restore, retention, and disaster-recovery procedures.",
+    "category": "operations",
+    "version": "1.0.0",
+    "path": "skills/operations/backup-restore-guardian/SKILL.md"
+  },
+  {
+    "name": "incident-triage-commander",
+    "description": "Triage incidents, classify severity, stabilize systems, and structure communication.",
+    "category": "operations",
+    "version": "1.0.0",
+    "path": "skills/operations/incident-triage-commander/SKILL.md"
+  },
+  {
+    "name": "observability-architect",
+    "description": "Design logs, metrics, traces, dashboards, and alerts that support real production debugging.",
+    "category": "operations",
+    "version": "1.0.0",
+    "path": "skills/operations/observability-architect/SKILL.md"
+  },
+  {
+    "name": "production-readiness-check",
+    "description": "Validate that an application is ready for production deployment and operation.",
+    "category": "operations",
+    "version": "1.0.0",
+    "path": "skills/operations/production-readiness-check/SKILL.md"
+  },
+  {
+    "name": "acceptance-contract-writer",
+    "description": "Write precise acceptance criteria and behavior contracts for features and tickets.",
+    "category": "product",
+    "version": "1.0.0",
+    "path": "skills/product/acceptance-contract-writer/SKILL.md"
+  },
+  {
+    "name": "delivery-scope-slicer",
+    "description": "Break large scopes into coherent increments without losing the complete product vision.",
+    "category": "product",
+    "version": "1.0.0",
+    "path": "skills/product/delivery-scope-slicer/SKILL.md"
+  },
+  {
+    "name": "product-brief-architect",
+    "description": "Turn a product idea into a structured brief with problem, users, scope, metrics, and delivery plan.",
+    "category": "product",
+    "version": "1.0.0",
+    "path": "skills/product/product-brief-architect/SKILL.md"
+  },
+  {
+    "name": "requirements-crystallizer",
+    "description": "Convert vague requests into clear functional and non-functional requirements.",
+    "category": "product",
+    "version": "1.0.0",
+    "path": "skills/product/requirements-crystallizer/SKILL.md"
+  },
+  {
+    "name": "roadmap-strategist",
+    "description": "Create a practical roadmap balancing user value, technical foundation, risk, and sequencing.",
+    "category": "product",
+    "version": "1.0.0",
+    "path": "skills/product/roadmap-strategist/SKILL.md"
+  },
+  {
+    "name": "bug-forensics",
+    "description": "Diagnose bugs through evidence, hypotheses, reproduction paths, and targeted fixes.",
+    "category": "quality",
+    "version": "1.0.0",
+    "path": "skills/quality/bug-forensics/SKILL.md"
+  },
+  {
+    "name": "edge-case-scout",
+    "description": "Discover edge cases, invalid inputs, concurrency issues, and abnormal states.",
+    "category": "quality",
+    "version": "1.0.0",
+    "path": "skills/quality/edge-case-scout/SKILL.md"
+  },
+  {
+    "name": "pull-request-sentinel",
+    "description": "Review pull requests for correctness, maintainability, security, tests, and release risk.",
+    "category": "quality",
+    "version": "1.0.0",
+    "path": "skills/quality/pull-request-sentinel/SKILL.md"
+  },
+  {
+    "name": "quality-gatekeeper",
+    "description": "Apply a release-quality checklist before code is merged, shipped, or deployed.",
+    "category": "quality",
+    "version": "1.0.0",
+    "path": "skills/quality/quality-gatekeeper/SKILL.md"
+  },
+  {
+    "name": "regression-hunter",
+    "description": "Find likely regressions introduced by a change and recommend targeted validation.",
+    "category": "quality",
+    "version": "1.0.0",
+    "path": "skills/quality/regression-hunter/SKILL.md"
+  },
+  {
+    "name": "tdd-coach",
+    "description": "Guide implementation through red-green-refactor with small, testable increments.",
+    "category": "quality",
+    "version": "1.0.0",
+    "path": "skills/quality/tdd-coach/SKILL.md"
+  },
+  {
+    "name": "test-strategy-designer",
+    "description": "Design a layered test strategy for frontend, backend, APIs, integrations, and critical workflows.",
+    "category": "quality",
+    "version": "1.0.0",
+    "path": "skills/quality/test-strategy-designer/SKILL.md"
+  },
+  {
+    "name": "type-safety-warden",
+    "description": "Improve TypeScript, Python typing, schemas, and runtime validation boundaries.",
+    "category": "quality",
+    "version": "1.0.0",
+    "path": "skills/quality/type-safety-warden/SKILL.md"
+  },
+  {
+    "name": "research-synthesizer",
+    "description": "Turn messy research into a sourced, structured synthesis with conclusions, uncertainty, and next actions.",
+    "category": "research",
+    "version": "1.0.0",
+    "path": "skills/research/research-synthesizer/SKILL.md"
+  },
+  {
+    "name": "auth-access-auditor",
+    "description": "Audit authentication, sessions, roles, permissions, tenancy, and access-control boundaries.",
+    "category": "security",
+    "version": "1.0.0",
+    "path": "skills/security/auth-access-auditor/SKILL.md"
+  },
+  {
+    "name": "dependency-risk-sentinel",
+    "description": "Review dependencies for security, maintenance, licensing, bloat, and supply-chain risk.",
+    "category": "security",
+    "version": "1.0.0",
+    "path": "skills/security/dependency-risk-sentinel/SKILL.md"
+  },
+  {
+    "name": "privacy-lgpd-guardian",
+    "description": "Review personal-data handling with privacy-by-design and LGPD-oriented controls.",
+    "category": "security",
+    "version": "1.0.0",
+    "path": "skills/security/privacy-lgpd-guardian/SKILL.md"
+  },
+  {
+    "name": "secrets-exposure-scanner",
+    "description": "Find and prevent accidental exposure of tokens, credentials, keys, and sensitive configuration.",
+    "category": "security",
+    "version": "1.0.0",
+    "path": "skills/security/secrets-exposure-scanner/SKILL.md"
+  },
+  {
+    "name": "security-threat-reviewer",
+    "description": "Review features, systems, and code for threat models, abuse cases, and security controls.",
+    "category": "security",
+    "version": "1.0.0",
+    "path": "skills/security/security-threat-reviewer/SKILL.md"
+  },
+  {
+    "name": "context-continuity-handoff",
+    "description": "Create a concise handoff so another AI agent or developer can continue the work without losing context.",
+    "category": "strategy",
+    "version": "1.0.0",
+    "path": "skills/strategy/context-continuity-handoff/SKILL.md"
+  },
+  {
+    "name": "skill-authoring-forge",
+    "description": "Design new reusable AI skills with clear triggers, workflow, guardrails, and output contracts.",
+    "category": "strategy",
+    "version": "1.0.0",
+    "path": "skills/strategy/skill-authoring-forge/SKILL.md"
+  },
+  {
+    "name": "skill-quality-inspector",
+    "description": "Review AI skills for ambiguity, weak activation triggers, missing guardrails, and poor output contracts.",
+    "category": "strategy",
+    "version": "1.0.0",
+    "path": "skills/strategy/skill-quality-inspector/SKILL.md"
+  },
+  {
+    "name": "strategy-pressure-test",
+    "description": "Stress-test ideas, plans, features, and implementation proposals before execution.",
+    "category": "strategy",
+    "version": "1.0.0",
+    "path": "skills/strategy/strategy-pressure-test/SKILL.md"
+  }
+]

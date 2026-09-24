@@ -1,3 +1,7 @@
+<p align="center">
+  <strong>Agent SkillForge</strong>
+</p>
+
 # Agent SkillForge
 
 A polished, production-oriented collection of **50 reusable AI agent skills** for GitHub repositories, code agents, product planning, architecture review, QA, DevOps, documentation, security, and open-source maintenance.
@@ -51,8 +55,8 @@ Most agent skill collections are useful, but many skills are too generic. This r
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/agent-skillforge.git
-cd agent-skillforge
+git clone https://github.com/leadtunic/Skillforge.git
+cd Skillforge
 ```
 
 Validate all skills:
@@ -70,7 +74,7 @@ npm run catalog
 ## Repository Structure
 
 ```txt
-agent-skillforge/
+Skillforge/
   skills/
     strategy/
     product/
@@ -139,6 +143,12 @@ For most software projects, start with:
 ## Contributing
 
 Contributions are welcome. Read [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`docs/authoring-guide.md`](docs/authoring-guide.md) before adding new skills.
+
+## Maintainer
+
+Built and maintained by [Giovani Ricetto](https://github.com/leadtunic).
+
+Portfolio: [benedash.com](https://benedash.com)
 
 ## License
 
